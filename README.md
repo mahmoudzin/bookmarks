@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://mahmoudzin.github.io/bookmark/">
+    <a href="https://mahmoudzin.github.io/bookmarks/">
       Demo
     </a>
   </h3>
@@ -24,9 +24,9 @@
 
 ## Overview
 
-![screenshot](https://github.com/mahmoudzin/bookmark/blob/main/main.png)
+![screenshot](https://github.com/mahmoudzin/bookmarks/blob/main/main.png)
 
-- You |Can See Demo from [here]("https://mahmoudzin.github.io/bookmark/)
+- You |Can See Demo from [here]("https://mahmoudzin.github.io/bookmarks/)
 
 
 ### Built With
